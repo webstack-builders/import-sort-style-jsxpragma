@@ -26,7 +26,7 @@
     "@typescript-eslint/eslint-plugin": "6.20.0",
     "@typescript-eslint/parser": "6.20.0",
     "eslint": "8.56.0",
-    "eslint-config-xo": "0.43.1",
+    "eslint-config-xo": "0.44.0",
     "import-sort": "6.0.0",
     "import-sort-parser-babylon": "6.0.0",
     "import-sort-parser-typescript": "6.0.0",
