@@ -24,7 +24,7 @@
     "@types/jest": "27.4.1",
     "@types/node": "^24.2.0",
     "@typescript-eslint/eslint-plugin": "8.39.0",
-    "@typescript-eslint/parser": "8.39.0",
+    "@typescript-eslint/parser": "8.39.1",
     "eslint": "9.33.0",
     "eslint-config-xo": "0.47.0",
     "import-sort": "6.0.0",
